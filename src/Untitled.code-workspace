@@ -1,0 +1,28 @@
+{
+	"folders": [
+		{
+			"path": "../../../nodejs/nodeExpress"
+		},
+		{
+			"path": "../../../nodejs/todo"
+		},
+		{
+			"path": "../../../nodejs/todoListServer"
+		},
+		{
+			"path": "../../../nodejs/todoList"
+		},
+		{
+			"path": "../../express001"
+		},
+		{
+			"path": "../../todo001"
+		},
+		{
+			"path": ".."
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "issuelog"
+	}
+}
